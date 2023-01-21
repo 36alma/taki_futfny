@@ -30,6 +30,3 @@ let Y = 0
 Y = 2
 X = 0
 f = 0
-basic.forever(function () {
-	
-})
